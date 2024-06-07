@@ -1,0 +1,46 @@
+/* frontend/src/App.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .app {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .editor {
+    width: 100%;
+    height: 300px;
+    margin: 20px 0;
+    padding: 10px;
+    font-size: 16px;
+    font-family: monospace;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  pre {
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+    text-align: left;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border-radius: 5px;
+  }
+  

@@ -1,0 +1,2 @@
+docker build -t code-editor-backend .
+docker run -p 5000:5000 code-editor-backend

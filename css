@@ -1,0 +1,20 @@
+online-code-editor/
+│
+├── backend/
+│   ├── index.js
+│   ├── Dockerfile
+│   └── package.json
+│
+├── frontend/
+│   ├── public/
+│   │   └── index.html
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Editor.js
+│   │   │   ├── Header.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   ├── App.css
+│   └── package.json
+├── .gitignore
+└── README.md
